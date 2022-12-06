@@ -22,7 +22,7 @@
 #define _SERVO_SPEED 150 // servo speed limit (unit: degree/second)
 
 // PID parameters
-#define _KP 10 // proportional gain
+#define _KP 11 // proportional gain
 #define _KD 750 // derivative gain
 //#define _KI 0 // integral gain
 
